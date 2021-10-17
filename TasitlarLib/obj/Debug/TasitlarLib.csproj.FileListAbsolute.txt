@@ -1,0 +1,6 @@
+C:\Users\berkh\source\repos\TasitlarLib\bin\Debug\TasitlarLib.dll
+C:\Users\berkh\source\repos\TasitlarLib\bin\Debug\TasitlarLib.pdb
+C:\Users\berkh\source\repos\TasitlarLib\obj\Debug\TasitlarLib.csproj.AssemblyReference.cache
+C:\Users\berkh\source\repos\TasitlarLib\obj\Debug\TasitlarLib.csproj.CoreCompileInputs.cache
+C:\Users\berkh\source\repos\TasitlarLib\obj\Debug\TasitlarLib.dll
+C:\Users\berkh\source\repos\TasitlarLib\obj\Debug\TasitlarLib.pdb
